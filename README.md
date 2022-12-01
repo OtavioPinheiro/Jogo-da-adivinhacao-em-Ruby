@@ -1,0 +1,2 @@
+# Jogo de adivinhação em Ruby
+Jogo da adivinhação feito em Ruby. Trata-se de um jogo simples de terminal onde o jogador tem que adivinhar um número, escolhido aleatóriamente, entre 1 até um número máximo. O número máximo pode variar de 50, 100 e 200, de acordo com a dificuldade.
